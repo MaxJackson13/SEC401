@@ -60,4 +60,4 @@
  * Sanitize and validate user input
  * Enfore url schema, destination and port from a whitelist
  * Disable HTTP redirections
- * Don't return rw output to clients
+ * Don't return raw output to clients
